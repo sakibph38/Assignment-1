@@ -1,0 +1,25 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* shared style */
+.text-primary{
+    color: #4E47FF;
+}
+.prime{
+    color: #4E47FF;
+}
+/* Nav styles */
+nav{
+    display: flex;
+}
+.nav-title{
+    font-size: 34px;
+}
+
+nav ul li{
+    list-style: none;
+}
